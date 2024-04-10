@@ -1,0 +1,7 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "github-actions.workflows.pinned.workflows": [
+        ".github/workflows/only-tests.yml",
+        ".github/workflows/deploy.yml"
+    ]
+}
